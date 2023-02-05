@@ -9,4 +9,10 @@
 
 ## 内容
 
-主要 裁剪了 `Arr`, `Str` , `Collection` 工具类。只有部分方法 做了测试。
+主要 裁剪了 `Arr`, `Str` , `Collection` 工具类。只有部分方法做了测试。
+
+## 安装
+
+```php
+composer requiure  natural-cloud/collection-php
+```
